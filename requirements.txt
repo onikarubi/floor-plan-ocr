@@ -3,3 +3,7 @@ opencv-python
 pillow
 numpy
 google-cloud-vision
+keras-core
+keras-cv
+torch
+torchvision
